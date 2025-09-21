@@ -101,9 +101,36 @@ console.log("Jvavascript connected!");
     
 // }
 
+// for(var i = 0; i<=5; i++){
 
 
+//     for(var j =0 ; j<=5; j++ ){
+
+//         document.write(" *")
+
+//     }
+
+//     document.write(" <br>")
+// }
 
 
+// var a =1;
+
+for(var i = 1; i <= 100; i+=9){
+
+    
+    // for( var j = i; j < i+10; j++){
+
+    //     document.write( j + " ");
+
+
+    // }
+
+    // document.write("<br>")
+
+console.log(i);
+
+
+}
 
 
